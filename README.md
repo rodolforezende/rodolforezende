@@ -56,5 +56,7 @@ I've always enjoyed solving problems, being able to make people's lives easier a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolforezende&layout=compacttheme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodolforrcont@gmail.com)
+
+### Contact
+[Email](mailto:rodolforrcont@gmail.com) ||
 [Linkedin](https://www.linkedin.com/in/rodolfo-rezende-73830397/)
