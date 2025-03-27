@@ -59,4 +59,4 @@ I've always enjoyed solving problems, being able to make people's lives easier a
 
 ### Contact
 [Email](mailto:rodolforrcont@gmail.com) ||
-[Linkedin](https://www.linkedin.com/in/rodolfo-rezende-73830397/)
+[Linkedin](https://www.linkedin.com/in/rodolfo-ramos-218ab3358/)
