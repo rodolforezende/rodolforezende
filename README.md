@@ -1,4 +1,4 @@
-# Hi there 👋, Im Rodolfo Rezende
+# Hi there 👋, Im Rodolfo Ramos
 
 I've always enjoyed solving problems, being able to make people's lives easier and I discovered this in technology, where I have the opportunity to positively impact society through technological solutions.
 
